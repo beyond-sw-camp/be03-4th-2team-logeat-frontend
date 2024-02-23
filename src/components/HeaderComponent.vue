@@ -93,8 +93,12 @@ export default {
       this.notificationId = id;
       axiosInstance.delete(
         '/notification/' + id
-      )
-      window.location.href =  "/";
+      ).then(response => {
+        if(response.status===200) {
+          this.isNotiDropdownOpen = !this.isNotiDropdownOpen;
+          window.location.href="/";
+        }
+      });
     },
     async getNoitification() {
       axiosInstance.get(
