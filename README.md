@@ -130,9 +130,8 @@
 ## 테스트 결과
 <details> <summary><b>front gitaction 테스트 결과</b></summary>   
   <div markdown="1"> 
-        <img src="https://github.com/beyond-sw-camp/be03-4th-2team-logeat-frontend/assets/125184448/e93549f5-92ad-4c50-bfd7-b86452c968c6"/>
+        "https://github.com/beyond-sw-camp/be03-4th-2team-logeat-frontend/assets/125184448/31b34423-ceec-4f18-aca8-6133cdd33824"
     </div>
-
     
 </details>
 
